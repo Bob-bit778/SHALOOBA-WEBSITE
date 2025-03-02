@@ -102,65 +102,7 @@ p {
 ul li a:hover {
     color: #ff6f61;
 }
-@keyframes fadeInUp {
-    from {
-        opacity: 0;
-        transform: translateY(20px);
-    }
-    to {
-        opacity: 1;
-        transform: translateY(0);
-    }
-}
 
-}
-
-header {
-    background: rgba(53, 66, 74, 0.8);
-    color: #ffffff;
-    padding: 20px 0;
-    text-align: center;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-nav {
-    margin: 20px 0;
-}
-
-.container {
-    width: 80%;
-    margin: auto;
-    overflow: hidden;
-}
-
-section {
-    padding: 60px 0;
-    background: rgba(255, 255, 255, 0.8);
-    margin: 20px 0;
-    border-radius: 10px;
-}
-
-h2 {
-    font-size: 2em;
-    margin-bottom: 20px;
-    color: #35424a;
-}
-
-p {
-    line-height: 1.6;
-}
-
-.about-container {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-}
-
-.about-image {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
 }@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 body {
